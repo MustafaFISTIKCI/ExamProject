@@ -1,0 +1,10 @@
+
+”	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÝÉè§ùÿÿÿÿ8ÄíË÷ó1J$2bad628a-d902-491b-8575-38b747d7e2cf
+k
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "HIDE_ON_CLOSE".(‡ÞÁ¾ýÿÿÿÿ8­ŠÔ÷ó1
+Œ
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8”îË÷ó1J$9d044c2d-2e09-4a8e-91d2-2d3f927f8c7a
+†
+java:S3252">Use static access with "javax.swing.SwingConstants" for "TOP".(ú·ã½ùÿÿÿÿ8šîË÷ó1J$2623ac46-139b-43cb-9824-d26486f83591
+„
+java:S3252"AUse static access with "javax.swing.SwingConstants" for "CENTER".(ÑÕ¾í8£îË÷ó1J$57cf2029-b42c-46ba-b842-81c7a6631510
